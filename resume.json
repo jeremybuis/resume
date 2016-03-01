@@ -1,0 +1,430 @@
+{
+
+  "name": "Jeremy Buis",
+
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.4.0"
+  },
+
+  "info": {
+    "label": "Software Developer and Security Analyst",
+    "characterClass": "Programmer",
+    "brief": "A multi-faceted flexible software developer and security analyst.",
+    "image": "",
+    "quote": ""
+  },
+
+  "contact": {
+    "website": "https://jeremy.buis.ca",
+    "phone": "+1 (613) 410-6279",
+    "email": "buis.jeremy@gmail.com",
+    "other": [
+      {
+        "label": "Personal Email",
+        "flavor": "email",
+        "value": "buis.jeremy@gmail.com"
+      }
+    ]
+  },
+
+  "location": {
+    "address": "Jeremy Buis\nOttawa, Ontario, CA",
+    "city": "Ottawa",
+    "region": "Ontario",
+    "country": "CA"
+  },
+
+  "social": [
+    {
+      "label": "GitHub",
+      "network": "GitHub",
+      "user": "jeremybuis",
+      "url": "https://github.com/jeremybuis"
+    },
+    {
+      "label": "Twitter",
+      "network": "Twitter",
+      "user": "jeremybuis",
+      "url": "https://twitter.com/jeremybuis"
+    },
+    {
+      "label": "Linkedin",
+      "network": "Linkedin",
+      "user": "jeremybuis",
+      "url": "https://ca.linkedin.com/in/jeremybuis"
+    }
+  ],
+
+  "employment": {
+
+    "summary": "5+ years industry IT and software development, security experience.",
+
+    "history": [
+
+      {
+        "employer": "Software Secured",
+        "url": "https://softwaresecured.com",
+        "position": "Lead Developer / Security Analyst",
+        "summary": "A broad role covering both software development and application security tasks. Writing code focused around the Node.JS stack. Performing web application penetration tests and secure code review for a variety of platforms and applications. Some example applications include:",
+        "start": "2014-05-01",
+        "keywords": [
+          "Agile",
+          "JavaScript",
+          "MongoDB",
+          "Github",
+          "Burp",
+          "nmap",
+          "Nessus",
+          "git",
+          "Bootstrap",
+          "Linux",
+          "OSX",
+          "Express",
+          "jQuery",
+          "Mithril",
+          "REST",
+          "HTML5",
+          "CSS",
+          "Python",
+          "Ruby",
+          "kali",
+          "Brakeman",
+          "Checkmarx",
+          "Word",
+          "Excel"
+        ],
+        "highlights": [
+          "Messaging Application - Performed security assessment on the application using code review combined with penetration testing techniques to find vulnerabilities in the application. Used: Burp, Zap, nmap, Nessus, Brakeman, kali",
+          "Content Management System - Performed security assessment on the application using code review combined with penetration testing techniques to find vulnerabilities in the application. Used: Burp, Zap, nmap, Nessus, Brakeman, kali",
+          "Artwork Sharing Application - Performed security assessment on the application using penetration testing techniques to find vulnerabilities in the application. Used: Burp, Zap, nmap, Nessus, kali",
+          "Professional Membership Application - Performed security assessment on the application using code review combined with penetration testing techniques to find vulnerabilities in the application. Used: Burp, Zap, nmap, Nessus, Checkmarx, kali"
+        ]
+      },
+
+      {
+        "employer": "SecDev Cyber",
+        "url": "https://new.secdev.com/",
+        "position": "Web Application Developer",
+        "summary": "Building internal tools in support of analytics and business requirements.  Releasing visualizations for external consumption.",
+        "start": "2012-10-01",
+        "end": "2014-05-01",
+        "keywords": [
+          "JavaScript",
+          "jQuery",
+          "Bootstrap",
+          "Backbone",
+          "D3.js",
+          "Express",
+          "HTML5",
+          "CSS",
+          "git",
+          "Linux",
+          "OSX",
+          "Python",
+          "Brunch",
+          "REST"
+        ],
+        "highlights": [
+          "Created and launched multiple web visualizations to production.",
+          "Built to completion, internal statistics tracking web application."
+        ]
+      },
+
+      {
+        "employer": "Canadian Medical Protection Association",
+        "url": "https://www.cmpa-acpm.ca/",
+        "position": "Programmer Analyst",
+        "summary": "Building internal tools and production websites using Java and Web Technologies.",
+        "start": "2012-01",
+        "end": "2012-06",
+        "keywords": [
+          "jQuery",
+          "JavaScript",
+          "Java",
+          "Maven",
+          "Ant",
+          "Tomcat",
+          "HTML5",
+          "CSS",
+          "svn"
+        ],
+        "highlights": [
+          "Managed development and upgrades of doctor facing documentation website."
+        ]
+      },
+
+      {
+      "employer": "XE.com",
+      "position": "Mobile Developer Co-op",
+      "url": "http://www.xe.com/",
+      "start": "2010-09",
+      "end": "2010-12",
+      "summary": "Building iOS applications.",
+      "highlights": [
+        "Manage the iOS code for both the iPhone and iPad version of the app. Implemented features and bug fixes.",
+        "Released a new version to the app store"
+      ],
+      "keywords": ["Objective-C", "iOS", "iPhone", "iPad", "Java", "REST", "svn", "Linux"]
+    },
+    {
+      "employer": "XE.com",
+      "position": "Mobile Developer Co-op",
+      "url": "http://www.xe.com/",
+      "start": "2009-09",
+      "end": "2009-12",
+      "summary": "Building iOS applications.",
+      "highlights": [
+        "Learned Objective C and the iOS framework, to add features and fix bugs on the XE.com iPhone and iPad applications.",
+        "Fixed and added changes to a Java based web service that supported the mobile applications.",
+        "Released a new version to the app store"
+      ],
+      "keywords": ["Objective-C", "iOS", "iPhone", "Java", "REST", "svn", "Linux"]
+    },
+    {
+      "employer": "The Canadian Medical Protection Association",
+      "position": "Web Developer Co-op",
+      "url": "https://www.cmpa-acpm.ca/",
+      "start": "2009-01",
+      "end": "2009-04",
+      "summary": "Performing web development tasks.",
+      "highlights": [
+        "Developed a JSF component library, jQueryFaces, using jQuery and released the under MIT & GPL license on SourceForge.",
+        "Developed a web app using ColdFusion and ExtJS that updated an XML file using AJAX."
+      ],
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Java",
+        "JSF",
+        "Coldfusion",
+        "ExtJS",
+        "XML",
+        "jQuery",
+        "svn",
+        "Windows"
+      ]
+    },
+    {
+      "employer": "The Canadian Medical Protection Association",
+      "position": "Web Developer Co-op",
+      "url": "https://www.cmpa-acpm.ca/",
+      "start": "2008-05",
+      "end": "2008-08",
+      "summary": "Performing web development tasks.",
+      "highlights": [
+        "Worked with other departments creating HTML content from PDF files.",
+        "Developed a ColdFusion script that would sync files and folders on the server."
+      ],
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Coldfusion",
+        "svn",
+        "Windows"
+      ]
+    }
+    ]
+
+  },
+
+  "education": {
+
+    "summary": "Computer Science, Honours, Co-operative Program",
+
+    "level": "degree",
+
+    "degree": "BCS",
+
+    "history": [
+
+      {
+        "institution": "University of Waterloo",
+        "title": "Computer Science, Honours, Co-operative Program",
+        "url": "https://uwaterloo.ca/",
+        "start": "2006-09",
+        "end": "2011-12",
+        "grade": "3.5",
+        "summary": "Completion of a Computer Science focused education.",
+        "curriculum": [
+          "Software Design and Architectures",
+          "Distributed Systems",
+          "Computer Networks",
+          "Computer Security and Privacy",
+          "Introduction to Artificial Intelligence",
+          "Advanced Offerings in Computer Science - Machine Learning",
+          "Introduction to Database Management",
+          "User Interfaces"
+        ]
+      }
+    ]
+
+  },
+
+  "skills": {
+
+    "sets": [
+      {
+        "name": "Web",
+        "level": "master",
+        "skills": [
+          "JavaScript", "HTML5", "CSS", "REST", "Wireframes"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "master",
+        "skills": [
+          "Node.JS", "jQuery", "Bootstrap", "Express", "Mithril", "underscore"
+        ]
+      },
+      {
+        "name": "Database",
+        "level": "intermediate",
+        "skills": [
+          "MySQL", "Postgresql", "MongoDB", "NoSQL", "ORM"
+        ]
+      },
+      {
+        "name": "Project",
+        "level": "intermediate",
+        "skills": [
+          "Agile", "JIRA", "GitHub", "git"
+        ]
+      },
+      {
+        "name": "Penetration Testing",
+        "level": "Intermediate",
+        "skills": [
+          "Burp", "OWASP Zap", "nmap", "Nessus", "Kali"
+        ]
+      },
+      {
+        "name": "Security Code Review",
+        "level": "Intermediate",
+        "skills": [
+          "Checkmarx", "Brakeman"
+        ]
+      }
+    ],
+
+    "list": [
+      {
+        "name": "Linux",
+        "summary": "Managing production and staging servers and using as a desktop operating system.",
+        "level": "advanced",
+        "years": "7+"
+      },
+      {
+        "name": "OSX",
+        "summary": "Using daily as a development platform.",
+        "level": "advanced",
+        "years": "5+"
+      }
+    ]
+  },
+
+  "projects": [
+    {
+      "title": "Dead Simple Express",
+      "summary": "A secure Express JS starter kit",
+      "url": "https://github.com/softwaresecured/dead-simple-express",
+      "start": "2015-07",
+      "keywords": [
+        "JavaScript",
+        "Express",
+        "Security"
+      ]
+    }
+  ],
+
+  "writing": [
+    {
+      "title": "The Rise of JavaScript XSS and Practical Mitigation Techniques",
+      "flavor": "blog",
+      "date": "2015-10",
+      "publisher": {
+        "name": "Software Secured Blog",
+        "url": "http://www.softwaresecured.com/2015/10/01/the-rise-of-javascript-xss-and-practical-mitigation-techniques/"
+      },
+      "url": "http://www.softwaresecured.com/2015/10/01/the-rise-of-javascript-xss-and-practical-mitigation-techniques/",
+      "keywords": [
+        "JavaScript",
+        "Security"
+      ]
+    },
+    {
+      "title": "Setting up a Secure Instance of Express JS (GitHub Repo)",
+      "flavor": "blog",
+      "date": "2015-07",
+      "publisher": {
+        "name": "Software Secured Blog",
+        "url": "http://www.softwaresecured.com/2015/07/08/setting-up-a-secure-instance-of-express-js-github-repo/"
+      },
+      "url": "http://www.softwaresecured.com/2015/07/08/setting-up-a-secure-instance-of-express-js-github-repo/",
+      "keywords": [
+        "JavaScript",
+        "Security"
+      ]
+    },
+    {
+      "title": "Security Comparison: AngularJS vs Backbone.js vs Ember",
+      "flavor": "blog",
+      "date": "2015-05",
+      "publisher": {
+        "name": "Software Secured Blog",
+        "url": "http://www.softwaresecured.com/2015/05/27/angularjs-backbone-js-and-ember-security-comparison/"
+      },
+      "url": "http://www.softwaresecured.com/2015/05/27/angularjs-backbone-js-and-ember-security-comparison/",
+      "keywords": [
+        "JavaScript",
+        "Security"
+      ]
+    },
+    {
+      "title": "Secure Your Express Application",
+      "flavor": "blog",
+      "date": "2015-04",
+      "publisher": {
+        "name": "Software Secured Blog",
+        "url": "http://www.softwaresecured.com/2015/04/08/secure-your-js-express-code/"
+      },
+      "url": "http://www.softwaresecured.com/2015/04/08/secure-your-js-express-code/",
+      "keywords": [
+        "JavaScript",
+        "Security"
+      ]
+    }
+  ],
+
+  "reading": [],
+
+  "speaking": [],
+
+  "recognition": [],
+
+  "references": [],
+
+  "testimonials": [],
+
+  "languages": [
+    {
+      "language": "English",
+      "level": "Native"
+    }
+  ],
+
+  "extracurricular": [],
+
+  "governance": [],
+
+  "interests": [
+    {
+      "name": "Ultimate Frisbee"
+    }
+  ]
+
+
+}
