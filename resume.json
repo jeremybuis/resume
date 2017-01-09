@@ -16,7 +16,7 @@
   },
 
   "contact": {
-    "website": "https://jeremy.buis.ca",
+    "website": "https://jeremybuis.github.io/resume",
     "email": "buis.jeremy@gmail.com",
     "other": [
       {
@@ -83,21 +83,18 @@
           "jQuery",
           "Mithril",
           "REST",
-          "HTML5",
+          "HTML",
           "CSS",
           "Python",
           "Ruby",
-          "kali",
-          "Brakeman",
-          "Checkmarx",
-          "Word",
-          "Excel"
+          "Microsost Office"
         ],
         "highlights": [
           "Messaging Application - Performed security assessment on the application using code review combined with penetration testing techniques to find vulnerabilities in the application. Used: Burp, Zap, nmap, Nessus, Brakeman, kali",
           "Content Management System - Performed security assessment on the application using code review combined with penetration testing techniques to find vulnerabilities in the application. Used: Burp, Zap, nmap, Nessus, Brakeman, kali",
-          "Artwork Sharing Application - Performed security assessment on the application using penetration testing techniques to find vulnerabilities in the application. Used: Burp, Zap, nmap, Nessus, kali",
-          "Professional Membership Application - Performed security assessment on the application using code review combined with penetration testing techniques to find vulnerabilities in the application. Used: Burp, Zap, nmap, Nessus, Checkmarx, kali"
+          "Artwork Sharing and Hosting - Performed security assessment on the application using penetration testing techniques to find vulnerabilities in the application. Used: Burp, Zap, nmap, Nessus, kali",
+          "Professional Membership Application - Performed security assessment on the application using code review combined with penetration testing techniques to find vulnerabilities in the application. Used: Burp, Zap, nmap, Nessus, Checkmarx, kali",
+          "Supply Chain Management - Performed security assessment on the application using code review combined with penetration testing techniques to find vulnerabilities in the application. Used: Burp, Zap, nmap, Nessus"
         ]
       },
 
@@ -149,7 +146,7 @@
           "svn"
         ],
         "highlights": [
-          "Managed development and upgrades of doctor facing documentation website."
+          "Managed software development and upgrades of doctor facing documentation website."
         ]
       },
 
@@ -269,28 +266,28 @@
         "name": "Web",
         "level": "master",
         "skills": [
-          "JavaScript", "HTML5", "CSS", "REST", "Wireframes"
+          "JavaScript", "HTML", "CSS", "REST", "Wireframes"
         ]
       },
       {
         "name": "JavaScript",
         "level": "master",
         "skills": [
-          "Node.JS", "jQuery", "Bootstrap", "Express", "Mithril", "underscore"
+          "Node.JS", "jQuery", "Bootstrap", "Express", "Mithril", "underscore", "Webpack"
         ]
       },
       {
         "name": "Database",
         "level": "intermediate",
         "skills": [
-          "MySQL", "Postgresql", "MongoDB", "NoSQL", "ORM"
+          "Postgresql", "MongoDB", "NoSQL", "ORM"
         ]
       },
       {
         "name": "Project",
         "level": "intermediate",
         "skills": [
-          "Agile", "JIRA", "GitHub", "git"
+          "Agile", "JIRA", "GitHub", "git", "Docker"
         ]
       },
       {
@@ -304,7 +301,7 @@
         "name": "Security Code Review",
         "level": "Intermediate",
         "skills": [
-          "Checkmarx", "Brakeman"
+          "Checkmarx", "Brakeman", "Fortify", "FindBugs"
         ]
       }
     ],
@@ -326,6 +323,17 @@
   },
 
   "projects": [
+    {
+      "title": "Open Source Security Project",
+      "summary": "A platform to vote on projects to be audited.",
+      "url": "https://ossp.softwaresecured.com/",
+      "start": "2016-08",
+      "keywords": [
+        "JavaScript",
+        "Meteor",
+        "Security"
+      ]
+    },
     {
       "title": "Dead Simple Express",
       "summary": "A secure Express JS starter kit",
