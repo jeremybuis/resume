@@ -70,11 +70,12 @@
         "keywords": [
           "Agile",
           "JavaScript",
+          "Python",
+          "Java",
           "MongoDB",
+          "Postgresql",
           "Github",
           "Burp",
-          "nmap",
-          "Nessus",
           "git",
           "Bootstrap",
           "Linux",
@@ -83,10 +84,8 @@
           "jQuery",
           "Mithril",
           "REST",
-          "HTML",
+          "HTML5",
           "CSS",
-          "Python",
-          "Ruby",
           "Microsost Office"
         ],
         "highlights": [
@@ -266,14 +265,14 @@
         "name": "Web",
         "level": "master",
         "skills": [
-          "JavaScript", "HTML", "CSS", "REST", "Wireframes"
+          "JavaScript", "HTML", "CSS", "REST", "Wireframes", "Java", "Python", "Mithril", "jQuery", "Bootstrap"
         ]
       },
       {
         "name": "JavaScript",
         "level": "master",
         "skills": [
-          "Node.JS", "jQuery", "Bootstrap", "Express", "Mithril", "underscore", "Webpack"
+          "Node.JS", "Express", "underscore", "Webpack", "Mongoose", "async"
         ]
       },
       {
