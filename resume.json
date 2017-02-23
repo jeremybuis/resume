@@ -57,7 +57,7 @@
 
   "employment": {
 
-    "summary": "5+ years industry IT and software development, security experience.",
+    "summary": "5+ years software development and security experience.",
 
     "history": [
 
@@ -65,7 +65,7 @@
         "employer": "Software Secured",
         "url": "https://softwaresecured.com",
         "position": "Lead Developer / Security Analyst",
-        "summary": "A broad role covering both software development and application security tasks. Writing code focused around the Node.JS stack. Performing web application penetration tests and secure code review for a variety of platforms and applications. Some example applications include:",
+        "summary": "A broad role covering both software development and application security tasks. Writing code focused around the Node.JS stack from design to release. Performing web application penetration tests and secure code review for a variety of platforms and applications. Hiring and managing Co-op students.",
         "start": "2014-05-01",
         "keywords": [
           "Agile",
@@ -75,7 +75,6 @@
           "MongoDB",
           "Postgresql",
           "Github",
-          "Burp",
           "git",
           "Bootstrap",
           "Linux",
@@ -89,11 +88,10 @@
           "Microsost Office"
         ],
         "highlights": [
-          "Messaging Application - Performed security assessment on the application using code review combined with penetration testing techniques to find vulnerabilities in the application. Used: Burp, Zap, nmap, Nessus, Brakeman, kali",
-          "Content Management System - Performed security assessment on the application using code review combined with penetration testing techniques to find vulnerabilities in the application. Used: Burp, Zap, nmap, Nessus, Brakeman, kali",
-          "Artwork Sharing and Hosting - Performed security assessment on the application using penetration testing techniques to find vulnerabilities in the application. Used: Burp, Zap, nmap, Nessus, kali",
-          "Professional Membership Application - Performed security assessment on the application using code review combined with penetration testing techniques to find vulnerabilities in the application. Used: Burp, Zap, nmap, Nessus, Checkmarx, kali",
-          "Supply Chain Management - Performed security assessment on the application using code review combined with penetration testing techniques to find vulnerabilities in the application. Used: Burp, Zap, nmap, Nessus"
+          "Released an open source security report card web application. Used: Mithril, Express, jQuery, Bootstrap",
+          "Released an open source security funding platform. Used: Express, Mongoose, jQuery, Bootstrap",
+          "Completed an internal issue reporting tool to be used during security assessments that creates a draft Word doc. Updated code to ES6. Used: Mithril, Webpack",
+          "Released a Meteor/React application that lets users vote on which open source project we would do a security audit on next."
         ]
       },
 
@@ -121,8 +119,8 @@
           "REST"
         ],
         "highlights": [
-          "Created and launched multiple web visualizations to production.",
-          "Built to completion, internal statistics tracking web application."
+          "Created and launched multiple web visualizations to production. Using D3.js",
+          "Built to completion, internal statistics tracking web application. Using Backbone"
         ]
       },
 
