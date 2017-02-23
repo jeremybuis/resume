@@ -270,7 +270,21 @@
         "name": "JavaScript",
         "level": "master",
         "skills": [
-          "Node.JS", "Express", "underscore", "Webpack", "Mongoose", "async"
+          "Node.JS", "Express", "underscore", "Mithril", "Webpack", "Mongoose", "async"
+        ]
+      },
+      {
+        "name": "Java",
+        "level": "intermediate",
+        "skills": [
+          "JavaEE", "JSP", "maven"
+        ]
+      },
+      {
+        "name": "Python",
+        "level": "beginner",
+        "skills": [
+          "requests", "BeautifulSoup4", "pytest"
         ]
       },
       {
@@ -284,21 +298,14 @@
         "name": "Project",
         "level": "intermediate",
         "skills": [
-          "Agile", "JIRA", "GitHub", "git", "Docker"
+          "Agile", "JIRA", "GitHub", "git"
         ]
       },
       {
-        "name": "Penetration Testing",
-        "level": "Intermediate",
+        "name": "DevOps",
+        "level": "intermediate",
         "skills": [
-          "Burp", "OWASP Zap", "nmap", "Nessus", "Kali"
-        ]
-      },
-      {
-        "name": "Security Code Review",
-        "level": "Intermediate",
-        "skills": [
-          "Checkmarx", "Brakeman", "Fortify", "FindBugs"
+          "Jenkins", "nginx", "Docker", "SonarQube"
         ]
       }
     ],
