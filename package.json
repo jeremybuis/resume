@@ -1,0 +1,24 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "A Fresh JSON representation of my resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx hackmyresume build resume.json TO public/resume.all -t compact"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremybuis/resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremybuis/resume/issues"
+  },
+  "homepage": "https://github.com/jeremybuis/resume#readme",
+  "dependencies": {
+    "fresh-themes": "^0.17.0-beta",
+    "hackmyresume": "^1.9.0-beta"
+  }
+}

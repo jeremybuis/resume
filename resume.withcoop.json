@@ -160,6 +160,65 @@
         "highlights": [
           "Managed software development and upgrades of doctor facing documentation website."
         ]
+      }, {
+        "employer": "XE.com",
+        "private":true,
+        "position": "Mobile Developer Co-op",
+        "url": "http://www.xe.com/",
+        "start": "2009-09",
+        "end": "2009-12",
+        "summary": "Building iOS applications.",
+        "highlights": [
+          "Learned Objective C and the iOS framework, to add features and fix bugs on the XE.com iPhone and iPad applications.",
+          "Fixed and added changes to a Java based web service that supported the mobile applications.",
+          "Released a new version to the app store"
+        ],
+        "keywords": ["Objective-C", "iOS", "iPhone", "Java", "REST", "svn", "Linux"]
+      }, {
+        "employer": "The Canadian Medical Protection Association",
+        "private": true,
+        "position": "Web Developer Co-op",
+        "url": "https://www.cmpa-acpm.ca/",
+        "start": "2009-01",
+        "end": "2009-04",
+        "summary": "Performing web development tasks.",
+        "highlights": [
+          "Developed a JSF component library, jQueryFaces, using jQuery and released the under MIT & GPL license on SourceForge.",
+          "Developed a web app using ColdFusion and ExtJS that updated an XML file using AJAX."
+        ],
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Java",
+          "JSF",
+          "Coldfusion",
+          "ExtJS",
+          "XML",
+          "jQuery",
+          "svn",
+          "Windows"
+        ]
+      }, {
+        "employer": "The Canadian Medical Protection Association",
+        "private": true,
+        "position": "Web Developer Co-op",
+        "url": "https://www.cmpa-acpm.ca/",
+        "start": "2008-05",
+        "end": "2008-08",
+        "summary": "Performing web development tasks.",
+        "highlights": [
+          "Worked with other departments creating HTML content from PDF files.",
+          "Developed a ColdFusion script that would sync files and folders on the server."
+        ],
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Coldfusion",
+          "svn",
+          "Windows"
+        ]
       }
 
     ]
