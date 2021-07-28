@@ -57,22 +57,22 @@
         "employer": "Software Secured",
         "url": "https://softwaresecured.com",
         "position": "Senior Application Security Engineer",
-        "summary": "Performing web, network, and mobile penetration tests and secure code review for a variety of platforms and applications. Guiding clients in application security tasks like threat modelling, secure design and vulnerability remediation and scoring. Owning team resources like test plans, payload databases. Mentoring team members in penetration testing.",
+        "summary": "Performing web, network, and mobile penetration tests and secure code review for a variety of platforms and applications. Guiding clients in application security tasks like threat modelling, secure design and vulnerability remediation and scoring. Owning team resources like test plans, payload databases, and report QA. Mentoring and assisting team members in their approach to security testing. Delivering quality content for the company blog.",
         "start": "2018-03-15",
         "keywords": [
-          "JavaScript, Python, Java",
-          "Burp Suite, OWASP ZAP, Appscan",
-          "Microsoft Office",
-          "Threat Modeling",
-          "Secure Design/Architecture",
-          "Security Code Review",
-          "Vulnerability Remediation and Classification",
-          "Penetration Testing"
+          "Penetration Testing",
+          "Security Code Review,",
+          "Threat Modeling,",
+          "Secure Design/Architecture,",
+          "Vulnerability Remediation,",
+          "JavaScript, Python, Java,",
+          "Burp Suite, OWASP ZAP",
+          "Microsoft Office,"
         ],
         "highlights": [
           "Reported multiple CVEs listed below.",
-          "Delivered high quality reports to clients containing many critical and high severity vulnerabilities for a diverse set of applications and products.",
-          "Advised client developer teams on threat modeling, secure design/architecture, and risk classification",
+          "Delivered high quality reports to clients containing many high severity vulnerabilities for a diverse set of applications and products.",
+          "Advised client developer teams on threat modeling, secure design/architecture, and risk classification/remediation.",
           "Performed quality control on outgoing client reports for the entire team."
         ]
       },
@@ -102,11 +102,8 @@
           "Microsoft Office"
         ],
         "highlights": [
-          "Messaging Application - Performed a security assessment on the application using code review combined with penetration testing techniques to find vulnerabilities in the application. Used: Burp, Zap, nmap, Nessus, Brakeman, kali",
-          "Content Management System - Performed a security assessment on the application using code review combined with penetration testing techniques to find vulnerabilities in the application. Used: Burp, Zap, nmap, Nessus, Brakeman, kali",
-          "Artwork Sharing and Hosting - Performed a security assessment on the application using penetration testing techniques to find vulnerabilities in the application. Used: Burp, Zap, nmap, Nessus, kali",
-          "Professional Membership Application - Performed a security assessment on the application using code review combined with penetration testing techniques to find vulnerabilities in the application. Used: Burp, Zap, nmap, Nessus, Checkmarx, kali",
-          "Supply Chain Management - Performed a security assessment on the application using code review combined with penetration testing techniques to find vulnerabilities in the application. Used: Burp, Zap, nmap, Nessus"
+
+          "Performed statis, dynamic and hybrid security tests against a wide variety of web applications. Used a variety of tools including: Burp Suite, OWASP ZAP, nmap, Nessus, Checkmarx, Fortify, Brakeman, Kali Linux"
         ]
       },
 
@@ -158,7 +155,7 @@
           "svn"
         ],
         "highlights": [
-          "Managed software development and upgrades of doctor facing documentation website."
+          "Performed software development and upgrades for public doctor facing knowledge website."
         ]
       }
 
@@ -177,6 +174,18 @@
     "history": [
 
       {
+        "institution": "Offensive Security",
+        "title": "Offensive Security Certified Professional (OSCP)",
+        "url": "https://uwaterloo.ca/",
+        "start": "2017-05",
+        "end": "2017-09",
+        "grade": "4.0",
+        "summary": "Completed the OSCP certification.",
+        "curriculum": []
+      },
+
+
+      {
         "institution": "University of Waterloo",
         "title": "Computer Science, Honours, Co-operative Program",
         "url": "https://uwaterloo.ca/",
@@ -190,9 +199,7 @@
           "Computer Networks",
           "Computer Security and Privacy",
           "Introduction to Artificial Intelligence",
-          "Advanced Offerings in Computer Science - Machine Learning",
-          "Introduction to Database Management",
-          "User Interfaces"
+          "Advanced Offerings in Computer Science - Machine Learning"
         ]
       }
     ]
@@ -202,22 +209,10 @@
   "skills": {
 
     "sets": [{
-      "name": "Web",
+      "name": "Web Applications",
       "level": "master",
       "skills": [
-        "JavaScript", "HTML", "CSS"
-      ]
-    }, {
-      "name": "JavaScript",
-      "level": "master",
-      "skills": [
-        "Node.JS", "Express", "MithrilJS"
-      ]
-    }, {
-      "name": "Database",
-      "level": "intermediate",
-      "skills": [
-        "Postgresql", "MongoDB"
+        "JavaScript", "HTML", "CSS", "Java", "Node.JS", "Express", "MithrilJS", "MongoDB", "Postgresql"
       ]
     }, {
       "name": "Penetration Testing",
@@ -229,7 +224,7 @@
       "name": "Security Code Review",
       "level": "Master",
       "skills": [
-        "Brakeman", "FindBugs", "Semgrep", "etc"
+        "Brakeman", "FindSecBugs", "Semgrep", "Checkmarx", "Fortify"
       ]
     }],
 
@@ -249,56 +244,60 @@
   "projects": [],
 
   "writing": [{
-    "title": "The Rise of JavaScript XSS and Practical Mitigation Techniques",
+    "title": "Exploiting Less.js to Achieve RCE",
     "flavor": "blog",
-    "date": "2015-10",
+    "date": "2021-07",
     "publisher": {
       "name": "Software Secured Blog",
-      "url": "http://www.softwaresecured.com/2015/10/01/the-rise-of-javascript-xss-and-practical-mitigation-techniques/"
+      "url": "https://www.softwaresecured.com/"
     },
-    "url": "http://www.softwaresecured.com/2015/10/01/the-rise-of-javascript-xss-and-practical-mitigation-techniques/",
+    "url": "https://www.softwaresecured.com/exploiting-less-js-to-achieve-rce/",
     "keywords": [
       "JavaScript",
-      "Security"
+      "Security",
+      "Lessjs"
     ]
-  }, {
-    "title": "Setting up a Secure Instance of Express JS (GitHub Repo)",
+  },{
+    "title": "Elementor Page Builder 2.9.8 Stored XSS",
     "flavor": "blog",
-    "date": "2015-07",
+    "date": "2020-06",
     "publisher": {
       "name": "Software Secured Blog",
-      "url": "http://www.softwaresecured.com/2015/07/08/setting-up-a-secure-instance-of-express-js-github-repo/"
+      "url": "https://www.softwaresecured.com/"
     },
-    "url": "http://www.softwaresecured.com/2015/07/08/setting-up-a-secure-instance-of-express-js-github-repo/",
+    "url": "https://www.softwaresecured.com/elementor-page-builder-stored-xss/",
     "keywords": [
-      "JavaScript",
-      "Security"
+      "Security",
+      "Wordpress",
+      "XSS"
     ]
-  }, {
-    "title": "Security Comparison: AngularJS vs Backbone.js vs Ember",
+  },{
+    "title": "Jetbrains TeamCity Reflected XSS",
     "flavor": "blog",
-    "date": "2015-05",
+    "date": "2019-09",
     "publisher": {
       "name": "Software Secured Blog",
-      "url": "http://www.softwaresecured.com/2015/05/27/angularjs-backbone-js-and-ember-security-comparison/"
+      "url": "https://www.softwaresecured.com/"
     },
-    "url": "http://www.softwaresecured.com/2015/05/27/angularjs-backbone-js-and-ember-security-comparison/",
+    "url": "https://www.softwaresecured.com/jetbrains-teamcity-reflected-xss/",
     "keywords": [
-      "JavaScript",
-      "Security"
+      "Security",
+      "JetBrains TeamCity",
+      "XSS"
     ]
-  }, {
-    "title": "Secure Your Express Application",
+  },{
+    "title": "ImageMagick RCE Take 2",
     "flavor": "blog",
-    "date": "2015-04",
+    "date": "2018-10",
     "publisher": {
       "name": "Software Secured Blog",
-      "url": "http://www.softwaresecured.com/2015/04/08/secure-your-js-express-code/"
+      "url": "https://www.softwaresecured.com/"
     },
-    "url": "http://www.softwaresecured.com/2015/04/08/secure-your-js-express-code/",
+    "url": "https://www.softwaresecured.com/imagemagick-rce-take-2/",
     "keywords": [
-      "JavaScript",
-      "Security"
+      "Security",
+      "ImageMagick",
+      "RCE"
     ]
   }],
 
@@ -308,15 +307,50 @@
 
   "recognition": [
 
-    {"category":"CVE","title":"CVE-2018-2625","date":"2018-04-03","from":"","summary":"XXE in Oracle Weblogic", "url": "https://www.oracle.com/security-alerts/cpujan2018.html"},
+    {
+      "category": "CVE",
+      "title": "CVE-2020-26296",
+      "date": "2020-12-28",
+      "from": "Kibana",
+      "summary": "Stored XSS in Kibana",
+      "url": "https://www.elastic.co/community/security"
+    },
 
-    {"category":"CVE","title":"CVE-2019-15848","date":"2019-07-31","from":"","summary":"Reflected XSS in JetBrains Teamcity", "url": "https://blog.jetbrains.com/blog/2019/09/26/jetbrains-security-bulletin-q2-2019/"},
+    {
+      "category": "CVE",
+      "title": "CVE-2020-13864, CVE-2020-13865",
+      "date": "2020-05-21",
+      "from": "Elementor",
+      "summary": "Stored XSS in Elementor",
+      "url": "https://wpscan.com/vulnerability/10256"
+    },
 
-    {"category":"CVE","title":"CVE-2020-7015","date":"2020-04-24","from":"","summary":"Stored XSS in Kibana TSVB", "url": "https://www.elastic.co/community/security"},
+    {
+      "category": "CVE",
+      "title": "CVE-2020-7015",
+      "date": "2020-04-24",
+      "from": "Kibana",
+      "summary": "Stored XSS in Kibana TSVB",
+      "url": "https://www.elastic.co/community/security"
+    },
 
-    {"category":"CVE","title":"CVE-2020-13864, CVE-2020-13865","date":"2020-05-21","from":"","summary":"Stored XSS in Elementor", "url": "https://wpscan.com/vulnerability/10256"},
+    {
+      "category": "CVE",
+      "title": "CVE-2019-15848",
+      "date": "2019-07-31",
+      "from": "JetBrains TeamCity",
+      "summary": "Reflected XSS in JetBrains Teamcity",
+      "url": "https://blog.jetbrains.com/blog/2019/09/26/jetbrains-security-bulletin-q2-2019/"
+    },
 
-    {"category":"CVE","title":"CVE-2020-26296","date":"2020-12-28","from":"","summary":"Stored XSS in Kibana", "url": "https://www.elastic.co/community/security"}
+    {
+      "category": "CVE",
+      "title": "CVE-2018-2625",
+      "date": "2018-04-03",
+      "from": "Oracle Weblogic",
+      "summary": "XXE in Oracle Weblogic",
+      "url": "https://www.oracle.com/security-alerts/cpujan2018.html"
+    }
 
   ],
 
