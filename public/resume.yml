@@ -1,0 +1,272 @@
+name: 'Jeremy Buis'
+meta:
+  format: FRESH@0.6.0
+  version: 0.4.0
+info:
+  label: 'Application Security Engineer'
+  characterClass: Hacker
+  brief: 'A multi-faceted flexible application security engineer.'
+  image: ""
+  quote: ""
+contact:
+  website: 'https://buis.ca/resume'
+  email: buis.jeremy@gmail.com
+  other:
+    -
+      label: 'Personal Email'
+      flavor: email
+      value: buis.jeremy@gmail.com
+location:
+  address: "Jeremy Buis\nToronto, Ontario, CA"
+  city: Toronto
+  region: Ontario
+  country: CA
+social:
+  -
+    label: GitHub
+    network: GitHub
+    user: jeremybuis
+    url: 'https://github.com/jeremybuis'
+  -
+    label: Twitter
+    network: Twitter
+    user: jeremybuis
+    url: 'https://twitter.com/jeremybuis'
+  -
+    label: Linkedin
+    network: Linkedin
+    user: jeremybuis
+    url: 'https://ca.linkedin.com/in/jeremybuis'
+employment:
+  summary: '10+ years industry IT and software development, security experience.'
+  history:
+    -
+      employer: 'Software Secured'
+      url: 'https://softwaresecured.com'
+      position: 'Senior Application Security Engineer'
+      summary: 'Performing web, network, and mobile penetration tests and secure code review for a variety of platforms and applications. Guiding clients in application security tasks like threat modelling, secure design and vulnerability remediation and scoring. Owning team resources like test plans, payload databases. Mentoring team members in penetration testing.'
+      start: '2018-03-15'
+      keywords:
+        - 'JavaScript, Python, Java'
+        - 'Burp Suite, OWASP ZAP, Appscan'
+        - 'Microsoft Office'
+        - 'Threat Modeling'
+        - 'Secure Design/Architecture'
+        - 'Security Code Review'
+        - 'Vulnerability Remediation and Classification'
+        - 'Penetration Testing'
+      highlights:
+        - 'Reported multiple CVEs listed below.'
+        - 'Delivered high quality reports to clients containing many critical and high severity vulnerabilities for a diverse set of applications and products.'
+        - 'Advised client developer teams on threat modeling, secure design/architecture, and risk classification'
+        - 'Performed quality control on outgoing client reports for the entire team.'
+    -
+      employer: 'Software Secured'
+      url: 'https://softwaresecured.com'
+      position: 'Application Security Engineer'
+      summary: 'A broad role covering both software development and application security tasks. Writing code focused around the Node.JS stack. Performing web application penetration tests and secure code review for a variety of platforms and applications. Some example applications include:'
+      start: '2014-05-01'
+      end: '2018-03-15'
+      keywords:
+        - Agile
+        - JavaScript
+        - Python
+        - Java
+        - MongoDB
+        - Postgresql
+        - Github
+        - Burp
+        - git
+        - Linux
+        - OSX
+        - Express
+        - jQuery
+        - Mithril
+        - 'Microsoft Office'
+      highlights:
+        - 'Performed Web and network penetration testing and security code review on a multitude of different applications delivering high quality issue laden reports.'
+    -
+      employer: 'SecDev Cyber'
+      url: 'https://www.secdev.com/'
+      position: 'Web Application Developer'
+      summary: 'Building internal tools in support of analytics and business requirements. Releasing visualizations for external consumption.'
+      start: '2012-10-01'
+      end: '2014-05-01'
+      keywords:
+        - JavaScript
+        - jQuery
+        - Bootstrap
+        - Backbone
+        - D3.js
+        - Express
+        - HTML5
+        - CSS
+        - git
+        - Linux
+        - OSX
+        - Python
+        - Brunch.io
+        - REST
+      highlights:
+        - 'Launched multiple web visualizations to production.'
+        - 'Launched internal statistics tracking web application.'
+    -
+      employer: 'Canadian Medical Protection Association'
+      url: 'https://www.cmpa-acpm.ca/'
+      position: 'Programmer Analyst'
+      summary: 'Building internal tools and production websites using Java and Web Technologies.'
+      start: 2012-01
+      end: 2012-06
+      keywords:
+        - jQuery
+        - JavaScript
+        - Java
+        - Maven
+        - Ant
+        - Tomcat
+        - HTML5
+        - CSS
+        - svn
+      highlights:
+        - 'Managed software development and upgrades of doctor facing documentation website.'
+education:
+  summary: 'Computer Science, Honours, Co-operative Program'
+  level: degree
+  degree: BCS
+  history:
+    -
+      institution: 'University of Waterloo'
+      title: 'Computer Science, Honours, Co-operative Program'
+      url: 'https://uwaterloo.ca/'
+      start: 2006-09
+      end: 2011-12
+      grade: '3.5'
+      summary: 'Completion of a Computer Science focused education.'
+      curriculum:
+        - 'Software Design and Architectures'
+        - 'Distributed Systems'
+        - 'Computer Networks'
+        - 'Computer Security and Privacy'
+        - 'Introduction to Artificial Intelligence'
+        - 'Advanced Offerings in Computer Science - Machine Learning'
+        - 'Introduction to Database Management'
+        - 'User Interfaces'
+skills:
+  sets:
+    -
+      name: 'Software Development'
+      level: intermediate
+      skills:
+        - JavaScript
+        - HTML
+        - CSS
+        - git
+        - Docker
+        - Express
+        - Java
+        - MongoDB
+        - Postgresql
+    -
+      name: 'Application Security'
+      level: master
+      skills:
+        - 'Threat Modeling'
+        - 'Secure Design'
+        - 'Vulnerability Classification'
+        - 'Penetration Testing'
+        - 'Security Code Review'
+  list:
+    -
+      name: Linux
+      summary: 'Managing production and staging servers and using as a desktop operating system.'
+      level: advanced
+      years: 7+
+    -
+      name: OSX
+      summary: 'Using daily as a development platform.'
+      level: advanced
+      years: 5+
+projects: []
+writing:
+  -
+    title: 'Exploiting Less.js to Achieve RCE'
+    flavor: blog
+    date: 2021-07
+    publisher:
+      name: 'Software Secured Blog'
+      url: 'https://www.softwaresecured.com/'
+    url: 'https://www.softwaresecured.com/exploiting-less-js-to-achieve-rce/'
+    keywords:
+      - JavaScript
+      - Security
+      - Lessjs
+  -
+    title: 'Elementor Page Builder 2.9.8 Stored XSS'
+    flavor: blog
+    date: 2020-06
+    publisher:
+      name: 'Software Secured Blog'
+      url: 'https://www.softwaresecured.com/'
+    url: 'https://www.softwaresecured.com/elementor-page-builder-stored-xss/'
+    keywords:
+      - Security
+      - Wordpress
+      - XSS
+  -
+    title: 'Security Comparison: AngularJS vs Backbone.js vs Ember'
+    flavor: blog
+    date: 2015-05
+    publisher:
+      name: 'Software Secured Blog'
+      url: 'http://www.softwaresecured.com/2015/05/27/angularjs-backbone-js-and-ember-security-comparison/'
+    url: 'http://www.softwaresecured.com/2015/05/27/angularjs-backbone-js-and-ember-security-comparison/'
+    keywords:
+      - JavaScript
+      - Security
+reading: []
+speaking: []
+recognition:
+  -
+    category: CVE
+    title: CVE-2018-2625
+    date: '2018-04-03'
+    from: ""
+    summary: 'XXE in Oracle Weblogic'
+    url: 'https://www.oracle.com/security-alerts/cpujan2018.html'
+  -
+    category: CVE
+    title: CVE-2019-15848
+    date: '2019-07-31'
+    from: ""
+    summary: 'Reflected XSS in JetBrains Teamcity'
+    url: 'https://blog.jetbrains.com/blog/2019/09/26/jetbrains-security-bulletin-q2-2019/'
+  -
+    category: CVE
+    title: CVE-2020-7015
+    date: '2020-04-24'
+    from: ""
+    summary: 'Stored XSS in Kibana TSVB'
+    url: 'https://www.elastic.co/community/security'
+  -
+    category: CVE
+    title: 'CVE-2020-13864, CVE-2020-13865'
+    date: '2020-05-21'
+    from: ""
+    summary: 'Stored XSS in Elementor'
+    url: 'https://wpscan.com/vulnerability/10256'
+  -
+    category: CVE
+    title: CVE-2020-26296
+    date: '2020-12-28'
+    from: ""
+    summary: 'Stored XSS in Kibana'
+    url: 'https://www.elastic.co/community/security'
+references: []
+testimonials: []
+languages:
+  -
+    language: English
+    level: Native
+extracurricular: []
+governance: []
+interests: []

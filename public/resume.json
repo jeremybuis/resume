@@ -1,0 +1,196 @@
+{
+  "basics": {
+    "label": "Application Security Engineer",
+    "characterClass": "Hacker",
+    "quote": "",
+    "website": "https://buis.ca/resume",
+    "email": "buis.jeremy@gmail.com",
+    "other": [
+      {
+        "label": "Personal Email",
+        "flavor": "email",
+        "value": "buis.jeremy@gmail.com"
+      }
+    ],
+    "name": "Jeremy Buis",
+    "summary": "A multi-faceted flexible application security engineer.",
+    "picture": "",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "jeremybuis",
+        "url": "https://github.com/jeremybuis"
+      },
+      {
+        "network": "Twitter",
+        "username": "jeremybuis",
+        "url": "https://twitter.com/jeremybuis"
+      },
+      {
+        "network": "Linkedin",
+        "username": "jeremybuis",
+        "url": "https://ca.linkedin.com/in/jeremybuis"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Software Secured",
+      "website": "https://softwaresecured.com",
+      "position": "Senior Application Security Engineer",
+      "startDate": "2018-03-15",
+      "summary": "Performing web, network, and mobile penetration tests and secure code review for a variety of platforms and applications. Guiding clients in application security tasks like threat modelling, secure design and vulnerability remediation and scoring. Owning team resources like test plans, payload databases. Mentoring team members in penetration testing.",
+      "highlights": [
+        "Reported multiple CVEs listed below.",
+        "Delivered high quality reports to clients containing many critical and high severity vulnerabilities for a diverse set of applications and products.",
+        "Advised client developer teams on threat modeling, secure design/architecture, and risk classification",
+        "Performed quality control on outgoing client reports for the entire team."
+      ]
+    },
+    {
+      "company": "Software Secured",
+      "website": "https://softwaresecured.com",
+      "position": "Application Security Engineer",
+      "startDate": "2014-05-01",
+      "endDate": "2018-03-15",
+      "summary": "A broad role covering both software development and application security tasks. Writing code focused around the Node.JS stack. Performing web application penetration tests and secure code review for a variety of platforms and applications. Some example applications include:",
+      "highlights": [
+        "Performed Web and network penetration testing and security code review on a multitude of different applications delivering high quality issue laden reports."
+      ]
+    },
+    {
+      "company": "SecDev Cyber",
+      "website": "https://www.secdev.com/",
+      "position": "Web Application Developer",
+      "startDate": "2012-10-01",
+      "endDate": "2014-05-01",
+      "summary": "Building internal tools in support of analytics and business requirements. Releasing visualizations for external consumption.",
+      "highlights": [
+        "Launched multiple web visualizations to production.",
+        "Launched internal statistics tracking web application."
+      ]
+    },
+    {
+      "company": "Canadian Medical Protection Association",
+      "website": "https://www.cmpa-acpm.ca/",
+      "position": "Programmer Analyst",
+      "startDate": "2012-01",
+      "endDate": "2012-06",
+      "summary": "Building internal tools and production websites using Java and Web Technologies.",
+      "highlights": [
+        "Managed software development and upgrades of doctor facing documentation website."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Waterloo",
+      "gpa": "3.5",
+      "courses": [
+        "Software Design and Architectures",
+        "Distributed Systems",
+        "Computer Networks",
+        "Computer Security and Privacy",
+        "Introduction to Artificial Intelligence",
+        "Advanced Offerings in Computer Science - Machine Learning",
+        "Introduction to Database Management",
+        "User Interfaces"
+      ],
+      "startDate": "2006-09",
+      "endDate": "2011-12"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software Development",
+      "level": "intermediate",
+      "keywords": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "git",
+        "Docker",
+        "Express",
+        "Java",
+        "MongoDB",
+        "Postgresql"
+      ]
+    },
+    {
+      "name": "Application Security",
+      "level": "master",
+      "keywords": [
+        "Threat Modeling",
+        "Secure Design",
+        "Vulnerability Classification",
+        "Penetration Testing",
+        "Security Code Review"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "url": "https://www.oracle.com/security-alerts/cpujan2018.html",
+      "title": "CVE-2018-2625",
+      "date": "2018-04-03",
+      "awarder": "",
+      "summary": "XXE in Oracle Weblogic"
+    },
+    {
+      "url": "https://blog.jetbrains.com/blog/2019/09/26/jetbrains-security-bulletin-q2-2019/",
+      "title": "CVE-2019-15848",
+      "date": "2019-07-31",
+      "awarder": "",
+      "summary": "Reflected XSS in JetBrains Teamcity"
+    },
+    {
+      "url": "https://www.elastic.co/community/security",
+      "title": "CVE-2020-7015",
+      "date": "2020-04-24",
+      "awarder": "",
+      "summary": "Stored XSS in Kibana TSVB"
+    },
+    {
+      "url": "https://wpscan.com/vulnerability/10256",
+      "title": "CVE-2020-13864, CVE-2020-13865",
+      "date": "2020-05-21",
+      "awarder": "",
+      "summary": "Stored XSS in Elementor"
+    },
+    {
+      "url": "https://www.elastic.co/community/security",
+      "title": "CVE-2020-26296",
+      "date": "2020-12-28",
+      "awarder": "",
+      "summary": "Stored XSS in Kibana"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Exploiting Less.js to Achieve RCE",
+      "publisher": "Software Secured Blog",
+      "releaseDate": "2021-07",
+      "website": "https://www.softwaresecured.com/exploiting-less-js-to-achieve-rce/"
+    },
+    {
+      "name": "Elementor Page Builder 2.9.8 Stored XSS",
+      "publisher": "Software Secured Blog",
+      "releaseDate": "2020-06",
+      "website": "https://www.softwaresecured.com/elementor-page-builder-stored-xss/"
+    },
+    {
+      "name": "Security Comparison: AngularJS vs Backbone.js vs Ember",
+      "publisher": "Software Secured Blog",
+      "releaseDate": "2015-05",
+      "website": "http://www.softwaresecured.com/2015/05/27/angularjs-backbone-js-and-ember-security-comparison/"
+    }
+  ],
+  "interests": [],
+  "references": 0,
+  "languages": [
+    {
+      "language": "English",
+      "level": "Native"
+    }
+  ]
+}
