@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npx hackmyresume build resume.json TO docs/index.html -t compact"
+    "build": "npx hackmyresume build resume.json TO docs/index.html docs/jeremybuis-resume.pdf -t compact"
   },
   "repository": {
     "type": "git",
