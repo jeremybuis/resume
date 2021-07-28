@@ -309,15 +309,6 @@
 
     {
       "category": "CVE",
-      "title": "CVE-2020-26296",
-      "date": "2020-12-28",
-      "from": "Kibana",
-      "summary": "Stored XSS in Kibana",
-      "url": "https://www.elastic.co/community/security"
-    },
-
-    {
-      "category": "CVE",
       "title": "CVE-2020-13864, CVE-2020-13865",
       "date": "2020-05-21",
       "from": "Elementor",
