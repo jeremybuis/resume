@@ -4,29 +4,23 @@
 
   "meta": {
     "format": "FRESH@0.6.0",
-    "version": "0.4.0"
+    "version": "0.5.0"
   },
 
   "info": {
-    "label": "Application Security Engineer",
+    "label": "Senior Security Engineer",
     "characterClass": "Hacker",
-    "brief": "A multi-faceted flexible application security engineer.",
+    "brief": "Offensive security engineer with 12+ years of experience in penetration testing, red team operations, vulnerability research, and security tooling.",
     "image": "",
     "quote": ""
   },
 
   "contact": {
-    "website": "https://buis.ca/resume",
-    "email": "buis.jeremy@gmail.com",
-    "other": [{
-      "label": "Personal Email",
-      "flavor": "email",
-      "value": "buis.jeremy@gmail.com"
-    }]
+    "website": "https://buis.ca",
+    "other": []
   },
 
   "location": {
-    "address": "Jeremy Buis\nToronto, Ontario, CA",
     "city": "Toronto",
     "region": "Ontario",
     "country": "CA"
@@ -38,42 +32,89 @@
     "user": "jeremybuis",
     "url": "https://github.com/jeremybuis"
   }, {
-    "label": "Twitter",
-    "network": "Twitter",
+    "label": "X",
+    "network": "X",
     "user": "jeremybuis",
-    "url": "https://twitter.com/jeremybuis"
+    "url": "https://x.com/jeremybuis"
   }, {
-    "label": "Linkedin",
-    "network": "Linkedin",
+    "label": "LinkedIn",
+    "network": "LinkedIn",
     "user": "jeremybuis",
-    "url": "https://ca.linkedin.com/in/jeremybuis"
+    "url": "https://www.linkedin.com/in/jeremybuis"
   }],
 
   "employment": {
 
-    "summary": "10+ years industry IT and software development, security experience.",
+    "summary": "12+ years of industry experience in offensive security, penetration testing, and software development.",
 
     "history": [{
+        "employer": "Shopify",
+        "url": "https://shopify.com",
+        "position": "Senior Security Engineer, Red Team",
+        "summary": "Conducting red team operations and offensive security research to identify weaknesses in Shopify's security posture. Building offensive tooling, executing end-to-end attack simulations, and shipping defensive improvements.",
+        "start": "2024-01",
+        "keywords": [
+          "Red Team Operations",
+          "Offensive Security Research",
+          "Ruby",
+          "Python",
+          "macOS Security",
+          "Cloud Security",
+          "AI/LLM Security",
+          "C2 Frameworks"
+        ],
+        "highlights": [
+          "Discovered and exploited a self-propagating XSS worm in an internal application, leading to improved input sanitization across the platform.",
+          "Built autonomous vulnerability discovery and exploitation tooling using AI agents.",
+          "Developed a Ruby-based C2 agent leveraging macOS native APIs via Objective-C bridge.",
+          "Conducted purple team exercises to validate detection and response capabilities."
+        ]
+      },
+      {
+        "employer": "Shopify",
+        "url": "https://shopify.com",
+        "position": "Senior Application Security Engineer",
+        "summary": "Performed application security assessments, code review, and vulnerability research across Shopify's platform.",
+        "start": "2022-04",
+        "end": "2023-12",
+        "keywords": [
+          "Application Security",
+          "Security Code Review",
+          "Penetration Testing",
+          "Ruby",
+          "JavaScript",
+          "Cloud Security"
+        ],
+        "highlights": [
+          "Performed security assessments across a diverse set of applications and services.",
+          "Contributed to internal security tooling and vulnerability scanning infrastructure."
+        ]
+      },
+      {
         "employer": "Software Secured",
         "url": "https://softwaresecured.com",
         "position": "Senior Application Security Engineer",
         "summary": "Performing web, network, and mobile penetration tests and secure code review for a variety of platforms and applications. Guiding clients in application security tasks like threat modelling, secure design and vulnerability remediation and scoring. Owning team resources like test plans, payload databases, and report QA. Mentoring and assisting team members in their approach to security testing. Delivering quality content for the company blog.",
         "start": "2018-03-15",
+        "end": "2022-04",
         "keywords": [
           "Penetration Testing",
-          "Security Code Review,",
-          "Threat Modeling,",
-          "Secure Design/Architecture,",
-          "Vulnerability Remediation,",
-          "JavaScript, Python, Java,",
-          "Burp Suite, OWASP ZAP",
-          "Microsoft Office,"
+          "Security Code Review",
+          "Threat Modeling",
+          "Secure Design/Architecture",
+          "Vulnerability Remediation",
+          "JavaScript",
+          "Python",
+          "Java",
+          "Burp Suite",
+          "OWASP ZAP"
         ],
         "highlights": [
-          "Reported multiple CVEs listed below.",
+          "Reported multiple CVEs in products from Oracle, Elastic, JetBrains, and Elementor.",
           "Delivered high quality reports to clients containing many high severity vulnerabilities for a diverse set of applications and products.",
           "Advised client developer teams on threat modeling, secure design/architecture, and risk classification/remediation.",
-          "Performed quality control on outgoing client reports for the entire team."
+          "Performed quality control on outgoing client reports for the entire team.",
+          "Published security research on the company blog covering XSS, RCE, and authentication topics."
         ]
       },
 
@@ -81,7 +122,7 @@
         "employer": "Software Secured",
         "url": "https://softwaresecured.com",
         "position": "Application Security Engineer",
-        "summary": "A broad role covering both software development and application security tasks. Writing code focused around the Node.JS stack. Performing web application penetration tests and secure code review for a variety of platforms and applications. Some example applications include:",
+        "summary": "A broad role covering both software development and application security tasks. Writing code focused around the Node.JS stack. Performing web application penetration tests and secure code review for a variety of platforms and applications.",
         "start": "2014-05-01",
         "end": "2018-03-15",
         "keywords": [
@@ -90,20 +131,16 @@
           "Python",
           "Java",
           "MongoDB",
-          "Postgresql",
-          "Github",
-          "Burp",
+          "PostgreSQL",
+          "Burp Suite",
           "git",
           "Linux",
-          "OSX",
           "Express",
-          "jQuery",
-          "Mithril",
-          "Microsoft Office"
+          "Node.js"
         ],
         "highlights": [
-
-          "Performed statis, dynamic and hybrid security tests against a wide variety of web applications. Used a variety of tools including: Burp Suite, OWASP ZAP, nmap, Nessus, Checkmarx, Fortify, Brakeman, Kali Linux"
+          "Performed static, dynamic and hybrid security tests against a wide variety of web applications using Burp Suite, OWASP ZAP, nmap, Nessus, Checkmarx, Fortify, Brakeman, and Kali Linux.",
+          "Built full-stack web applications using Express, MongoDB, and Node.js."
         ]
       },
 
@@ -116,18 +153,10 @@
         "end": "2014-05-01",
         "keywords": [
           "JavaScript",
-          "jQuery",
-          "Bootstrap",
-          "Backbone",
           "D3.js",
           "Express",
-          "HTML5",
-          "CSS",
-          "git",
-          "Linux",
-          "OSX",
           "Python",
-          "Brunch.io",
+          "Backbone",
           "REST"
         ],
         "highlights": [
@@ -144,15 +173,10 @@
         "start": "2012-01",
         "end": "2012-06",
         "keywords": [
-          "jQuery",
-          "JavaScript",
           "Java",
+          "JavaScript",
           "Maven",
-          "Ant",
-          "Tomcat",
-          "HTML5",
-          "CSS",
-          "svn"
+          "Tomcat"
         ],
         "highlights": [
           "Performed software development and upgrades for public doctor facing knowledge website."
@@ -176,14 +200,12 @@
       {
         "institution": "Offensive Security",
         "title": "Offensive Security Certified Professional (OSCP)",
-        "url": "https://uwaterloo.ca/",
+        "url": "https://www.offsec.com/",
         "start": "2017-05",
         "end": "2017-09",
-        "grade": "4.0",
         "summary": "Completed the OSCP certification.",
         "curriculum": []
       },
-
 
       {
         "institution": "University of Waterloo",
@@ -191,7 +213,6 @@
         "url": "https://uwaterloo.ca/",
         "start": "2006-09",
         "end": "2011-12",
-        "grade": "3.5",
         "summary": "Completion of a Computer Science focused education.",
         "curriculum": [
           "Software Design and Architectures",
@@ -209,36 +230,32 @@
   "skills": {
 
     "sets": [{
-      "name": "Web Applications",
+      "name": "Offensive Security",
       "level": "master",
       "skills": [
-        "JavaScript", "HTML", "CSS", "Java", "Node.JS", "Express", "MithrilJS", "MongoDB", "Postgresql"
+        "Penetration Testing", "Red Team Operations", "Vulnerability Research", "Social Engineering", "C2 Frameworks"
       ]
     }, {
-      "name": "Penetration Testing",
-      "level": "Master",
+      "name": "Security Tooling",
+      "level": "master",
       "skills": [
-        "Burp Suite", "OWASP Zap", "nmap", "Nessus", "Kali"
+        "Burp Suite", "OWASP ZAP", "nmap", "Nessus", "Semgrep", "Nuclei", "Kali Linux"
       ]
     }, {
-      "name": "Security Code Review",
-      "level": "Master",
+      "name": "Programming",
+      "level": "advanced",
       "skills": [
-        "Brakeman", "FindSecBugs", "Semgrep", "Checkmarx", "Fortify"
+        "Ruby", "Python", "JavaScript", "Java", "Bash", "Node.js"
+      ]
+    }, {
+      "name": "Platforms",
+      "level": "advanced",
+      "skills": [
+        "Linux", "macOS", "GCP", "AWS", "Docker"
       ]
     }],
 
-    "list": [{
-      "name": "Linux",
-      "summary": "Managing production and staging servers and using as a desktop operating system.",
-      "level": "advanced",
-      "years": "7+"
-    }, {
-      "name": "OSX",
-      "summary": "Using daily as a development platform.",
-      "level": "advanced",
-      "years": "5+"
-    }]
+    "list": []
   },
 
   "projects": [],
@@ -248,57 +265,91 @@
     "flavor": "blog",
     "date": "2021-07",
     "publisher": {
-      "name": "Software Secured Blog",
-      "url": "https://www.softwaresecured.com/"
+      "name": "buis.ca",
+      "url": "https://buis.ca"
     },
-    "url": "https://www.softwaresecured.com/exploiting-less-js-to-achieve-rce/",
-    "keywords": [
-      "JavaScript",
-      "Security",
-      "Lessjs"
-    ]
-  },{
+    "url": "https://buis.ca/blog/2021/07/07/exploiting-less-js-to-achieve-rce",
+    "keywords": ["JavaScript", "Security", "RCE"]
+  }, {
     "title": "Elementor Page Builder 2.9.8 Stored XSS",
     "flavor": "blog",
     "date": "2020-06",
     "publisher": {
-      "name": "Software Secured Blog",
-      "url": "https://www.softwaresecured.com/"
+      "name": "buis.ca",
+      "url": "https://buis.ca"
     },
-    "url": "https://www.softwaresecured.com/elementor-page-builder-stored-xss/",
-    "keywords": [
-      "Security",
-      "Wordpress",
-      "XSS"
-    ]
-  },{
-    "title": "Jetbrains TeamCity Reflected XSS",
+    "url": "https://buis.ca/blog/2020/06/05/elementor-page-builder-stored-xss",
+    "keywords": ["Security", "WordPress", "XSS"]
+  }, {
+    "title": "JetBrains TeamCity Reflected XSS",
     "flavor": "blog",
     "date": "2019-09",
     "publisher": {
-      "name": "Software Secured Blog",
-      "url": "https://www.softwaresecured.com/"
+      "name": "buis.ca",
+      "url": "https://buis.ca"
     },
-    "url": "https://www.softwaresecured.com/jetbrains-teamcity-reflected-xss/",
-    "keywords": [
-      "Security",
-      "JetBrains TeamCity",
-      "XSS"
-    ]
-  },{
+    "url": "https://buis.ca/blog/2019/09/27/jetbrains-teamcity-reflected-xss",
+    "keywords": ["Security", "JetBrains TeamCity", "XSS"]
+  }, {
     "title": "ImageMagick RCE Take 2",
     "flavor": "blog",
     "date": "2018-10",
     "publisher": {
-      "name": "Software Secured Blog",
-      "url": "https://www.softwaresecured.com/"
+      "name": "buis.ca",
+      "url": "https://buis.ca"
     },
-    "url": "https://www.softwaresecured.com/imagemagick-rce-take-2/",
-    "keywords": [
-      "Security",
-      "ImageMagick",
-      "RCE"
-    ]
+    "url": "https://buis.ca/blog/2018/10/19/imagemagick-rce-take-2",
+    "keywords": ["Security", "ImageMagick", "RCE"]
+  }, {
+    "title": "Passwords Shouldn't Be Hard, Don't Cause Your Next Breach",
+    "flavor": "blog",
+    "date": "2018-09",
+    "publisher": {
+      "name": "buis.ca",
+      "url": "https://buis.ca"
+    },
+    "url": "https://buis.ca/blog/2018/09/10/passwords-shouldnt-be-hard",
+    "keywords": ["Security", "Authentication", "Passwords"]
+  }, {
+    "title": "The Rise of JavaScript XSS and Practical Mitigation Techniques",
+    "flavor": "blog",
+    "date": "2015-10",
+    "publisher": {
+      "name": "buis.ca",
+      "url": "https://buis.ca"
+    },
+    "url": "https://buis.ca/blog/2015/10/01/the-rise-of-javascript-xss-and-practical-mitigation-techniques",
+    "keywords": ["JavaScript", "Security", "XSS"]
+  }, {
+    "title": "Setting Up a Secure Instance of Express JS",
+    "flavor": "blog",
+    "date": "2015-07",
+    "publisher": {
+      "name": "buis.ca",
+      "url": "https://buis.ca"
+    },
+    "url": "https://buis.ca/blog/2015/07/08/setting-up-a-secure-instance-of-express-js",
+    "keywords": ["JavaScript", "Security", "Express"]
+  }, {
+    "title": "Security Comparison: AngularJS vs Backbone.js vs Ember",
+    "flavor": "blog",
+    "date": "2015-05",
+    "publisher": {
+      "name": "buis.ca",
+      "url": "https://buis.ca"
+    },
+    "url": "https://buis.ca/blog/2015/05/27/security-comparison-angularjs-vs-backbone-vs-ember",
+    "keywords": ["JavaScript", "Security", "Frameworks"]
+  }, {
+    "title": "Secure Your Express Application",
+    "flavor": "blog",
+    "date": "2015-04",
+    "publisher": {
+      "name": "buis.ca",
+      "url": "https://buis.ca"
+    },
+    "url": "https://buis.ca/blog/2015/04/08/secure-your-express-application",
+    "keywords": ["JavaScript", "Security", "Express"]
   }],
 
   "reading": [],
@@ -313,7 +364,7 @@
       "date": "2020-05-21",
       "from": "Elementor",
       "summary": "Stored XSS in Elementor",
-      "url": "https://wpscan.com/vulnerability/10256"
+      "url": "https://wpscan.com/vulnerability/31659b56-2046-4be8-887f-a016da138595/"
     },
 
     {
@@ -341,6 +392,15 @@
       "from": "Oracle Weblogic",
       "summary": "XXE in Oracle Weblogic",
       "url": "https://www.oracle.com/security-alerts/cpujan2018.html"
+    },
+
+    {
+      "category": "Bug Bounty",
+      "title": "Stored XSS in TSVB Visualizations Markdown Panel",
+      "date": "2020-04-24",
+      "from": "Elastic",
+      "summary": "Stored XSS in Kibana TSVB via HackerOne",
+      "url": "https://hackerone.com/reports/858874"
     }
 
   ],
@@ -359,6 +419,5 @@
   "governance": [],
 
   "interests": []
-
 
 }
