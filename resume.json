@@ -64,9 +64,7 @@
           "C2 Frameworks"
         ],
         "highlights": [
-          "Discovered and exploited a self-propagating XSS worm in an internal application, leading to improved input sanitization across the platform.",
-          "Built autonomous vulnerability discovery and exploitation tooling using AI agents.",
-          "Developed a Ruby-based C2 agent leveraging macOS native APIs via Objective-C bridge.",
+          "Conducted end-to-end red team operations to evaluate and improve organizational security posture.",
           "Conducted purple team exercises to validate detection and response capabilities."
         ]
       },
