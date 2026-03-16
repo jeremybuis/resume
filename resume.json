@@ -233,25 +233,31 @@
       "name": "Offensive Security",
       "level": "master",
       "skills": [
-        "Penetration Testing", "Red Team Operations", "Vulnerability Research", "Social Engineering", "C2 Frameworks"
+        "Penetration Testing", "Red Team Operations", "Purple Team", "Vulnerability Research", "Threat Modeling"
       ]
     }, {
       "name": "Security Tooling",
       "level": "master",
       "skills": [
-        "Burp Suite", "OWASP ZAP", "nmap", "Nessus", "Semgrep", "Nuclei", "Kali Linux"
+        "Burp Suite", "Semgrep", "Nuclei", "nmap", "Kali Linux"
       ]
     }, {
       "name": "Programming",
       "level": "advanced",
       "skills": [
-        "Ruby", "Python", "JavaScript", "Java", "Bash", "Node.js"
+        "Ruby", "Python", "JavaScript", "Java"
       ]
     }, {
-      "name": "Platforms",
+      "name": "Platforms & Cloud",
       "level": "advanced",
       "skills": [
         "Linux", "macOS", "GCP", "AWS", "Docker"
+      ]
+    }, {
+      "name": "AI & Automation",
+      "level": "advanced",
+      "skills": [
+        "LLM/AI agent development", "Security automation"
       ]
     }],
 
