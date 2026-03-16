@@ -74,20 +74,20 @@
         "employer": "Shopify",
         "url": "https://shopify.com",
         "position": "Senior Application Security Engineer",
-        "summary": "Performed application security assessments, code review, and vulnerability research across Shopify's platform.",
+        "summary": "Performed security reviews and managed bug bounty operations across Shopify's platform.",
         "start": "2022-04",
         "end": "2023-12",
         "keywords": [
           "Application Security",
-          "Security Code Review",
-          "Penetration Testing",
+          "Security Reviews",
+          "Bug Bounty",
           "Ruby",
           "JavaScript",
           "Cloud Security"
         ],
         "highlights": [
-          "Performed security assessments across a diverse set of applications and services.",
-          "Contributed to internal security tooling and vulnerability scanning infrastructure."
+          "Triaged, validated, and remediated vulnerabilities reported through Shopify's bug bounty program.",
+          "Conducted security reviews of new features and services across the platform."
         ]
       },
       {
